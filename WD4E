@@ -9,7 +9,7 @@
 <a href="www.xyz.com">One</a>
 <a href="www.halm.com">Two</a>
 <a href="www.udalm.com">Three</a>
-<a href="www.sam.com">Four</a>
+<a href="www.sam.com">Learn</a>
 
 <h2>Favourite Foods</h2>
 <ul><li>Pizza</li>
@@ -17,7 +17,7 @@
 <li>Gobi</li>
 <li>Biryani</li>
 </ul>
-
+<br>
 <h2>Achievements </h2>
 <label="file">Progress in this course (100%)</label>
 <progress id="file"value="100"max="100">100%</progress>
@@ -34,8 +34,8 @@
 </details>
 <br>
 <footer>
-<img src="wd4elogo.png"/>
-<p> This page was created by Salman and Collen van Lent. To learn more about web design, visit
+<img src="My Files/Internal storage/Weblogo/newlogo.png"/> alt=newlogo
+<p> This page was created by Salman Ali Khan and Collen van Lent. To learn more about web design, visit
 <a href="https://intro-webdesign.com">Intro to Web design</a>
 </p>
 
